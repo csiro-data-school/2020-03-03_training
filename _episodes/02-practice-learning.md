@@ -53,7 +53,6 @@ the three stages of this model are:
 
 *   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
-    One sign that someone is a novice is that their questions "aren't even wrong".
 
     > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
@@ -79,6 +78,10 @@ to help us differentiate between novices and competent practitioners, which will
 implications for how we teach novices.
 
 ## Cognitive Development and Mental Models
+
+## Class question
+> What is knowlegde? (Draw out their mental model and activiate prior understanding)
+{: .discussion}
 
 Effective learning is facilitated by the creation of a well-founded mental model. A mental model is a collection of concepts and facts,
 along with the relationships between those concepts, which a person has about a topic. For example, a long-time resident of the United
@@ -260,12 +263,12 @@ results are easily interpretable by the learner and instructor.
 
 There are many types of formative assessment, and each have their advantages and disadvantages.
 
-> ## Formative Assessments
+> ## Formative Assessments (10 minutes)
 >
 > Based on your previous educational experience (or even this training so far!)
 > what types of formative assessments do you know about?
 >
-> Write your answers in the etherpad; or go around and have each person in the group name one.
+> Add new ideas to the whiteboard
 {: .challenge}
 
 One example of formative assessment that we would like to highlight is
@@ -290,7 +293,7 @@ but each of the other answers provides valuable insight.
 
 > ## Identify the Misconceptions
 >
-> Choose one wrong answer and write in the Etherpad what the misconception is associated with that wrong answer.
+> At your table, discuss what misconception is associated with each wrong answer.
 > This discussion should take about 10 minutes.
 >
 >> ## Solution
@@ -318,16 +321,14 @@ Formative assessments are most powerful when an instructor modifies their instru
 results of the assessment. An instructor may learn they need to change their pace or review a particular concept.
 Knowing how to respond to the results of a formative assessment is a skill that you will develop over time.
 
-> ## Handling Outcomes
+> ## Handling Outcomes (large group discussion)
 >
 > Formative assessments allow us as instructors to adapt our instruction to our audience.
 > What should we do as instructors if the class chooses:
 >
 > 1. mostly one of the wrong answers?  
 > 2. mostly the right answer?  
-> 3. an even spread among options?
->
-> For one of the above, enter your answer in the Etherpad.   
+> 3. an even spread among options?  
 >
 > This discussion should take about 5 minutes.
 >
@@ -391,14 +392,13 @@ in which you were going to explain something that your learners already know.
 > ## How Many?
 >
 > The Carpentries use formative assessments often. How many have we done since the start of this
-> workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
+> workshop?   
 >
 > This discussion should take about 5 minutes.
 >
 >> ## Solution
->> This will depend on the event they are attending. Most attendees will guess low.
->> The purpose of this exercise is to emphasize the importance of frequent formative
->> assessments and that an individual assessment doesn't have to take a lot of time.
+>> Count them during the break :-)
+>> Also demonstrate an example
 > {: .solution}
 {: .challenge}
 
