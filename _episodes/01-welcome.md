@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 start: true
-teaching: 10
+teaching: 20
 exercises: 15
 questions:
 - "Who are we and how do we approach teaching?"
@@ -89,16 +89,72 @@ organization before starting the training.
 
 ## A Brief Overview of the Carpentries
 
-Software Carpentry, Data Carpentry, and Library Carpentry
-are official Lesson Programs of the Carpentries.
-Together, they comprise communities of volunteer researchers, educators, and more who develop
-lessons and teach intensive one to two day workshops on basic computing and data skills for
-researchers.
-* Software Carpentry focuses on helping researchers develop foundational
-computational skills
-* Data Carpentry focuses on helping
-researchers work effectively with their data through its lifecycle
-* Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
+The Carpentries project comprises communities of Instructors, Trainers,
+Maintainers, helpers, and supporters from
+[Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }})
+who share a mission to teach foundational computational and data science skills.
+
+[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing.
+[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy.
+
+Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
+
+On January 1, 2018, Software Carpentry and Data Carpentry merged
+their projects to form a new project called
+[The Carpentries]({{ site.carpentries_site }})
+under the fiscal sponsorship of
+[Community Initiatives](https://communityin.org/).
+Within this new organization structure, Software Carpentry and Data Carpentry retain their individual identities as Lesson Programs of the Carpentries.
+On November 1, 2018, The Carpentries Executive Council
+approved [Library Carpentry]({{ site.lc_site }})
+as the third official Lesson Program of the Carpentries.
+
+
+![A brief history](../fig/SWCDChistory.png)
+
+You can learn more about the history and goals of each Lesson Program by reading
+"[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)",
+"[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)" and
+"[Library Carpentry: software skills training for library professionals](https://www.liberquarterly.eu/article/10.18352/lq.10176/)"".
+
+## Similarities and Differences between The Carpentries Lesson Programs
+
+All lesson programs under The Carpentries share the same value
+of promoting efficient, shareable, and reproducible research practices.
+Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+
+Similarities between Software, Data and Library Carpentry workshops include:
+*   a focus on technical skills.
+*   an two-day format taught by volunteer instructors.
+*   a focus on filling gaps in current training for learners.
+
+The major differences between Software, Data and Library Carpentry workshops
+are their content and intended audience.
+
+Software Carpentry workshops are:
+
+*   intended for people who need to program more effectively to solve their
+computational challenges,
+*   not domain-specific, and
+*   modular---each Software Carpentry lesson is standalone.
+
+Data Carpentry workshops:
+
+*   are aimed at pure novices,
+*   are domain-specific,
+*   focus on best practices surrounding data, and
+*   present a full curriculum centered around a single data set.
+
+Library Carpentry workshops:
+
+*   are aimed at people in library- and information-related roles,
+*   focus on best practices in data structure, and
+*   are modular---each Library Carpentry lesson is standalone.
+*   are sometimes less than two days.
+
+In a visual representation, these similarities and differences look like this:
+
+![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
 
 The main goal of these organizations is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
