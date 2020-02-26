@@ -2,7 +2,7 @@
 title: "Welcome"
 start: true
 teaching: 20
-exercises: 15
+exercises: 20
 questions:
 - "Who are we and how do we approach teaching?"
 - "What should you expect from this workshop?"
