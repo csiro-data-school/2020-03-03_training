@@ -17,14 +17,6 @@ keypoints:
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
 
-## Before The Course Begins
-
-> ## Getting to know each other
->
-> If the trainer has chosen an [icebreaker question]({{ page.training_site }}/icebreakers/index.html),
-> participate by writing your answers in the course's shared notes.
-{: .challenge}
-
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in Carpentries activities is required
@@ -49,11 +41,14 @@ instructor training.  We're very pleased to have you with us.
 > later in the workshop: [Workshop Introductions](http://carpentries.github.io/instructor-training/23-introductions/index.html))
 {: .discussion}
 
-Now we would like to get to know all of you.
+> ## Your classmates
+>
+> Around the room, please say (1) your name, (2) describe your work in 3 words, and (3) something you are proud of
+{: .challenge}
 
 > ## Reviewing Carpentries Experience and Goals
 >
-> Please answer the following questions in the shared notes document:
+> Hands up!
 >
 > *Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?*
 >
@@ -71,11 +66,21 @@ Now we would like to get to know all of you.
 > 4.  I have been the instructor-of-record for my own university/college course.
 > 5.  I have taught at the primary or secondary education level.
 > 6.  I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
+{: .challenge}
+
+## Using the etherpad
+
+> ## Getting to know each other
 >
+> Please use the etherpad to sign in with your name and institution.
+{: .challenge}
+
+
+## Goals and motivation
+
 > **Why are you taking this course? What goals do you have for today and tomorrow?**
 >
-> If time permits, the trainer may have you discuss these answers in small groups
-> (in breakout rooms if online), or all together as a group.
+> At your table, discuss these questions.
 {: .challenge}
 
 To make sure everyone has the
