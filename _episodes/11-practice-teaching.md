@@ -103,6 +103,7 @@ giving you the opportunity to learn by observing and to get feedback from your f
 {: .challenge}
 
 Now that you've had some practice observing teaching and giving feedback, let's practice with each other.
+Another good resource for [teaching demo] (https://flxlexblog.wordpress.com/2016/05/13/a-video-introduction-to-instructing-by-means-of-live-coding/).
 
 > ## Feedback on Yourself
 >
