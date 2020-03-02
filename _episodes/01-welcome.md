@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 start: true
-teaching: 20
+teaching: 10
 exercises: 20
 questions:
 - "Who are we and how do we approach teaching?"
