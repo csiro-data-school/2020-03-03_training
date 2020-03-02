@@ -17,7 +17,6 @@ keypoints:
 - "Accessibility benefits everyone."
 ---
 
-[teaching demo] (https://www.youtube.com/watch?v=-ApVt04rB4U)
 
 In the morning we covered some educational research and how we can apply it
 to teaching Carpentries workshops.  Part of this afternoon will cover
