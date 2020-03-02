@@ -165,7 +165,7 @@ but it's part of the reason world-famous researchers are often poor lecturers.
 >
 {: .callout}
 
-> ## Awareness Gaps  (Optional)
+> ## Awareness Gaps  
 >
 > 1. Is there anything you're learning how to do right now?  Can you identify
 > something that you still need to think about, but your teacher can do without
@@ -192,12 +192,12 @@ and that they therefore must be stupid.
 With practice, we can change the way we speak to avoid this type of demotivating language and replace
 it with more positive and motivating word choices.
 
-> ## Changing Your Language  
+> ## Changing Your Language  - whiteboard exercise
 >
 > What other words or phrases can have the effect of demotivating learners? What alternatives can we use to
 > express this meaning in a positive and motivational way?  
 >
-> In the Etherpad, make a list of demotivating words/phrases and alternatives.  
+> As a class, make a list of demotivating words/phrases and alternatives.  
 >
 > This discussion should take about 5 minutes.  
 >
