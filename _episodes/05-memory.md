@@ -52,20 +52,10 @@ frequent formative assessment is important.
 >
 > [This website][memory-test] implements a short test of working memory.  
 >
-> Take 5 minutes to complete the exercise. What was your score? Write your answer
-> in the Etherpad.
+> Take 5 minutes to complete the exercise. What was your score? 
 {: .challenge}
 
-> ## Test Your Working Memory - Analog version (5 min)
->
-> Read the following list and try to memorize the items in it:
->
-> cat, apple, ball, tree, square, head, house, door, box, car, king,
-> hammer, milk, fish, book, tape, arrow, flower, key, shoe
->
-> Without looking at the list again, write down as many words from the list as
-> you can. How many did you remember? Write your answer in the Etherpad.
-{: .challenge}
+
 
 Most people will have found they only remember 5-7 words. Don't worry if you
 remembered fewer - many factors can affect short-term memory in different situations.
@@ -95,8 +85,7 @@ rather than as five separate pieces of information.
 > Repeat the memory exercise you did earlier, but this time,
 > try to form short stories or phrases, or a visual image, from the words you see.
 >
-> Write the number of words you remembered in the Etherpad.
-> How does this compare with your first attempt?
+> How does your recall compare with your first attempt?
 {: .challenge}
 
 Storing words in groups reduces the number of effective
@@ -132,34 +121,7 @@ and connections are labelled arcs.
 It is important that they are labelled:
 saying "X and Y are related" is only helpful if we explain what the relationship *is*.
 
-To show what concept maps look like,
-consider this example of a `for` loop in Python:
 
-~~~
-for ch in "abc":
-    print(2*ch)
-~~~
-{: .source}
-
-The three key concepts used in this loop are:
-
-![Key Concepts](../fig/for-loop-concepts.png)
-
-The key relationships,
-which are as important as the concepts themselves,
-are:
-
-![Relationships](../fig/for-loop-arcs.png)
-
-A quick count shows that there are actually 6 things here,
-not just 3,
-so we're already brushing up against the limits of short-term memory.
-If we add two more facts to show things that are usually (but not always) true:
-
-![Recommendations](../fig/for-loop-rec.png)
-
-the count rises to 8,
-which is a good size for a single teaching episode.
 A few other concept maps drawn by previous participants in this training course
 are listed below:
 
@@ -197,7 +159,6 @@ knowledge.
 > overwhelming your learners' short-term memory?
 >
 > Take 10 minutes to draw the concept maps and share with your neighbor.
-> Write "*done*" in the Etherpad chat once you have finished.
 {: .challenge}
 
 > ## Other Uses of Concept Maps
