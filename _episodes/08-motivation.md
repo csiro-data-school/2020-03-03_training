@@ -79,7 +79,7 @@ motivating.
 > (e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
 > and explain how you would use it (or a simplified version of it) as an exercise or example in class.
 > **Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
-> In the class Etherpad, **share** the task and where it fits on the graph.
+> On the whiteboard, **share** the task and where it fits on the graph.
 > As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
 >
 > This exercise and discussion should take about 10 minutes.
@@ -141,16 +141,6 @@ learners.
 > ## Provide an Example
 >
 > Insert a personal story here about how you establish value in the classroom.
->
-> Or, insert an example story about establishing value, which goes like this:
->
-> "In the [SWC Unix "Finding Things" episode](http://swcarpentry.github.io/shell-novice/07-find/),
-> a haiku is used to to teach grep.
-> This is a great didactic tool, but it can be hard for learners to see how it applies to research.
-> After the didactic example, I connect my bioinformatics users with domain-specific examples by showing
-> [a list of one-line unix commands](https://wikis.utexas.edu/display/bioiteam/Scott's+list+of+linux+one-liners)
-> consisting of  `grep`, `sort`, `head`, and `uniq` to explore biological sequence data.
-> This emphasizes how they can apply what they learned with haikus to real bioinformatics research problems."
 {: .callout}
 
 > ## Brainstorming Motivational Strategies
@@ -158,7 +148,7 @@ learners.
 > *Think* back to a computational (or other) course you took in the past, and
 > identify one thing the instructor did that motivated you.
 > *Pair* up with your neighbor and discuss what motivated you.
-> *Share* the motivational story in the Etherpad.
+> *Share* the motivational story with the class.
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
@@ -178,7 +168,7 @@ learners.
 > The Carpentries want instructors with diverse backgrounds because you each bring something
 > unique to our community.
 >
-> What motivates you to teach? Write a short explanation of what motivates you to teach.
+> What motivates you to teach? Write a short explanation of what motivates you to teach in the etherpad.
 > Save this as part of your teaching philosophy for future reference.
 >
 > This exercise should take about 5 minutes.
@@ -198,9 +188,9 @@ common demotivators and help you develop strategies for avoiding them.
 >
 > *Think* back to a time when you were demotivated as a student (or when you demotivated a student).
 > *Pair* up with your neighbor and discuss what could have been done differently in the situation to make it not demotivating.
-> *Share* your story in the Etherpad.
+> As a class, share on the whiteboard.
 >
-> If time, what themes do you see among the stories?  What are positive actions you could take to avoid these?
+> What themes do you see among the stories?  What are positive actions you could take to avoid these?
 >
 > This exercise should take about 5 minutes.
 {: .challenge}
